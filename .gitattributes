@@ -1,0 +1,6 @@
+iPhoneOS3.1.sdk.tbz2 filter=lfs diff=lfs merge=lfs -text
+iPhoneOS3.1.2.sdk.tbz2 filter=lfs diff=lfs merge=lfs -text
+iPhoneOS4*.tbz2 filter=lfs diff=lfs merge=lfs -text
+iPhoneOS5*.tbz2 filter=lfs diff=lfs merge=lfs -text
+iPhoneOS6*.tbz2 filter=lfs diff=lfs merge=lfs -text
+iPhoneOS7*.tbz2 filter=lfs diff=lfs merge=lfs -text
